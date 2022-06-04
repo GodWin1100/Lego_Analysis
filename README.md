@@ -48,7 +48,7 @@ Output are approached by various method/syntax to display the difference between
 [visual_studio_code]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
-<!-- [power_bi]: https://powerbi.microsoft.com/en-au/ -->
+[power_bi]: https://powerbi.microsoft.com/en-au/
 
 <!-- Reach  -->
 
