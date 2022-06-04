@@ -27,7 +27,8 @@ Output are approached by various method/syntax to display the difference between
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-eeeeee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2C2C32)][visual_studio_code]
 [![Git](https://img.shields.io/badge/Git-eeeeee?style=for-the-badge&logo=git&logoColor=F05032&labelColor=f0efe7)][git]
 [![GitHub](https://img.shields.io/badge/Github-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][github]
-[![Power BI](https://img.shields.io/badge/Power_BI-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][power_bi]
+
+<!-- [![Power BI](https://img.shields.io/badge/Power_BI-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][power_bi] -->
 
 ## :round_pushpin: Reach
 
@@ -48,7 +49,12 @@ Output are approached by various method/syntax to display the difference between
 [visual_studio_code]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
+<<<<<<< Updated upstream
 [power_bi]: https://powerbi.microsoft.com/en-au/
+=======
+
+<!-- [power_bi]: https://powerbi.microsoft.com/en-au/ -->
+>>>>>>> Stashed changes
 
 <!-- Reach  -->
 
